@@ -135,6 +135,7 @@ Thank you to everyone who has contributed translations! See the [Translating](#t
 - [fkpcomposer](https://github.com/fkpcomposer): Brazilian Portuguese (pt_br)
 - [474FrediFred](https://github.com/474FrediFred): Swiss German (de_ch)
 - [bovae](https://github.com/bovae) & [b1twalker](https://github.com/b1twalker): Ukranian (uk)
+- [SabaZhvania](https://github.com/SabaZhvania): Georgian (ge)
 
 ## License
 
